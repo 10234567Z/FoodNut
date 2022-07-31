@@ -11402,14 +11402,6 @@ pre {
   color: yellow;
 }
 
-.aboutus-text {
-  transition: all 1s;
-}
-
-.aboutus-text:hover {
-  transform: scale(1.075);
-}
-
 .section-title {
   cursor: default;
   color: greenyellow;
